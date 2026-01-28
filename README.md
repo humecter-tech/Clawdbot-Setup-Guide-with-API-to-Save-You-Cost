@@ -1,4 +1,4 @@
-# Clawdbot Setup Guide (English)
+# Clawdbot Setup Guide
 
 Walks you through installing Clawdbot, completing onboarding, and wiring it to use your own API service to save AI cost.
 
